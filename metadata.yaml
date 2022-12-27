@@ -1,0 +1,41 @@
+_repo: Mountains-and-molehills-or-Recollections-of-a-burnt-journal_69412
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marryat, Frank
+    aliases:
+    - Marryat, Francis Samuel
+    - Marryat, Samuel Francis
+    - Marryat, Frank S. (Frank Samuel)
+    birthdate: 1826
+    deathdate: 1855
+    gutenberg_agent_id: '32270'
+    url: http://www.gutenberg.org/2009/agents/32270
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Marryat
+description: Illustrated by the author.
+gutenberg_issued: '2022-11-23'
+identifiers:
+  gutenberg: '69412'
+  lccn: '82183564'
+language: en
+pgterms:marc905: 20220526054953marryat
+pgterms:marc906: '1855'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: 'United Kingdom: Longman, Brown, Green and Longmans,1855.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Description and travel'
+- !lcsh 'California -- Gold discoveries'
+- !lcsh 'Law -- Political aspects -- California'
+- !lcsh 'Mines and mineral resources -- California'
+- !lcsh 'Ethnic groups -- California'
+- !lcsh 'Geology -- California'
+- !lcsh 'Marryat, Frank, 1826-1855'
+- !lcc 'F850.5'
+- GITenberg
+title: Mountains and molehills; or, Recollections of a burnt journal
+url: http://www.gutenberg.org/ebooks/69412
