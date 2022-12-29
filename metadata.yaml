@@ -1,5 +1,8 @@
 _repo: Mountains-and-molehills-or-Recollections-of-a-burnt-journal_69412
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69412-h/images/cover.jpg
 creator:
   author:
     agent_name: Marryat, Frank
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32270
     wikipedia: https://en.wikipedia.org/wiki/Frank_Marryat
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69412#Mountains-and-molehills-or-Recollections-of-a-burnt-journal
 gutenberg_issued: '2022-11-23'
 identifiers:
   gutenberg: '69412'
